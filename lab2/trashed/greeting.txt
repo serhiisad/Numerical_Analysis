@@ -1,0 +1,10 @@
+def greet(greeting, target):
+    return '%s! %s' % (greeting, target)
+
+# print(greet('hello', 'Bob'))
+
+import functools
+greet = functools.partial(greet, 'hola')
+
+
+print(greet('bob'))

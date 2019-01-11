@@ -1,0 +1,14 @@
+divided:-1.25
+interval:[-1.25, -1]
+divided:-1.125
+interval:[-1.25, -1.125]
+divided:-1.1875
+interval:[-1.1875, -1.125]
+divided:-1.15625
+interval:[-1.15625, -1.125]
+divided:-1.140625
+interval:[-1.140625, -1.125]
+divided:-1.1328125
+interval:[-1.140625, -1.1328125]
+divided:-1.13671875
+RESULT:-1.13671875
